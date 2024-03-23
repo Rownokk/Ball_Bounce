@@ -4,7 +4,6 @@ This project demonstrates a simple ball bouncing animation using the iGraphics l
 
 ## Requirements
 
-- C compiler
 - iGraphics library
 
 
